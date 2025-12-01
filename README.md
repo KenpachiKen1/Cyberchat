@@ -1,0 +1,1 @@
+This app is meant to showcase Agentic AI in use for CyberSecurity. Given a user's incident and their response format the Agent will respond with text that the user can copy and edit for their own use.
